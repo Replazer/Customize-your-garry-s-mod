@@ -1,5 +1,5 @@
-Customize-your-garry-s-mod
+```ATTENTION```
 
-Replace file!
+Use this customizer on your own risk
 
-```By RAME RP Garry's mod Owner```
+## This file not contains Virus or any attack utilities
